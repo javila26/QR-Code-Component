@@ -29,8 +29,8 @@ This is my first Frontend Mentor project to put in practice my HTML and CSS skil
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-code-componente-with-plain-html-and-css-0LTamVrf21)
-- Live Site URL: [Add live site URL here](https://javila26.github.io/QR-Code-Component/)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/qr-code-componente-with-plain-html-and-css-0LTamVrf21)
+- Live Site URL: [Live Site URL](https://javila26.github.io/QR-Code-Component/)
 
 ## My process
 
